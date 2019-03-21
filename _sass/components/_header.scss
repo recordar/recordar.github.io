@@ -47,6 +47,13 @@
   }
   & > .header__brand {
     @include flex(1);
+    & > .header__description {
+      @extend .text--light;
+      // background: rgba(#fff, .15);
+      margin-left: 10px;
+      vertical-align: bottom;
+      font-size: 9px;
+    }
   }
   & > .search-button {
     display: none;
