@@ -4,7 +4,7 @@ title: 자바스크립트 개요 (1)
 author: billie.jin
 aside:
   toc: true
-tags: JavaScript, 자바스크립트
+tags: JavaScript 자바스크립트
 article_header:
   type: cover
   image:
